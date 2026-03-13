@@ -334,7 +334,7 @@ const translations = {
         hero_btn_contact: 'Contact Us',
         stat1: 'Special equipment units',
         stat2: 'Professional specialists and engineers',
-        stat3: 'of FOCL under SWAP',
+        stat3: ' of FOCL under SWAP',
         about_label: 'About the Company',
         about_title: 'ITStroyService — Reliable Telecom Contractor',
         about_p1: 'The company specializes in construction and development of telecommunications infrastructure, as well as infrastructure and specialized construction in the Republic of Kazakhstan.',
